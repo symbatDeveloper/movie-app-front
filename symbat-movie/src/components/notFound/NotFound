@@ -1,0 +1,11 @@
+import React from 'react'
+
+const NotFound = () => {
+  return (
+    <div>
+       Symbat did not upload this movie
+    </div>
+  )
+}
+
+export default NotFound
